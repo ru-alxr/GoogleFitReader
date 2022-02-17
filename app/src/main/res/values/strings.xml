@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GoogleFitReader</string>
+    <string name="enable_google_fit">Enable Google Fit</string>
+
+    <string name="last_google_fit_sync">Last Google Fit sync: %s</string>
+    <string name="label_systolic">Sys: %s</string>
+    <string name="label_diastolic">Dia: %s</string>
+    <string name="date_pattern">"dd/LLL/yyyy hh:mm a"</string>
+
 </resources>
